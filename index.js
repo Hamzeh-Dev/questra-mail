@@ -44,7 +44,7 @@ const sendEmail = async (email) => {
                 </tr>
                 <tr>
                 <td style="padding: 15px; text-align: center;">
-                    <a href="[YOUR_APP_LINK]" style="display: inline-block; padding: 12px 25px; font-size: 16px; color: white; background-color: #007bff; text-decoration: none; border-radius: 5px;">Get Started</a>
+                    <a href="[APP_LINK_OR_DIR]" download style="display: inline-block; padding: 12px 25px; font-size: 16px; color: white; background-color: #007bff; text-decoration: none; border-radius: 5px;">Get Started</a>
                 </td>
                 </tr>
             </table>
